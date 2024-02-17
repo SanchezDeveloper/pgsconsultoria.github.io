@@ -1,15 +1,15 @@
-# swsolutions.github.io
-projeto free-lancer feito para empresa de criação de sites e soluções web
+# pgsconsultoria.github.io
+projeto free-lancer feito para empresa de consultoria em SST
 
-# Projeto de Site Institucional - Empresa de Soluções em TI
+# Projeto de Site Institucional - consultoria em SST
 
-Bem-vindo ao repositório do site institucional para a Empresa de Soluções em TI. Este projeto foi desenvolvido utilizando HTML5, CSS3 e JavaScript puro.
+Bem-vindo ao repositório do site institucional para a Empresa de consultoria em SST. Este projeto foi desenvolvido utilizando HTML5, CSS3 e JavaScript puro.
 
-# gh page: https://sanchezdeveloper.github.io/swsolutions.github.io/
+# gh page: https://sanchezdeveloper.github.io/pgsconsultoria.github.io/
 
 ## Descrição
 
-O site tem como objetivo apresentar a Empresa de Soluções em TI, destacando seus serviços, equipe, e fornecendo informações relevantes para os visitantes.
+O site tem como objetivo apresentar a Empresa de consultoria em SST, destacando seus serviços, equipe, e fornecendo informações relevantes para os visitantes.
 
 ## Tecnologias Utilizadas
 
